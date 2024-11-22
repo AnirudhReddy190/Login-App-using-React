@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  text-align: center;
+  padding: 150px;
+  border-radius: 20px;
+}
+.heading {
+  color: white;
+  font-size: 40px;
+}
+
